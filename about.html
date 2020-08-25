@@ -7,8 +7,8 @@ image: ./images/abou.jpg
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
-			<h1 class="editable">Our Story</h1>
-			<p class="subtext editable">We have an extremely talented team whose sole goal is to bring you closer to the people around you.</p>
+			<h1 class="editable">关于我</h1>
+			<p class="subtext editable">一个正在试图改变自己的小胖子，或许，我们可以认识一下...</p>
 		</div>
 	</div>
 </section>
@@ -20,7 +20,7 @@ image: ./images/abou.jpg
 			{% for person in site.staff_members %}
 				<li>
 					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
+					<div class="name"></div>
 					<div class="position">{{ person.position }}</div>
 				</li>
 			{% endfor %}
