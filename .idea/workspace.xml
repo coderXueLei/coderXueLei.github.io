@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -119,11 +119,6 @@
               <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1598322916350</updated>
       <workItem from="1598322917841" duration="2684000" />
-      <workItem from="1598327761341" duration="8569000" />
+      <workItem from="1598327761341" duration="8662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11253000" />
+    <option name="totallyTimeSpent" value="11346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -386,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
           </folding>
