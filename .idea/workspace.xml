@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00df7f9-88bd-43c3-bd61-1527c3fb4b78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/footer.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/list-posts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-title.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/relative-src.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/social-icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-07-20-what-is-a-friend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-07-28-psychology-of-friendship.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-08-02-life-cycle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-08-06-development-issues.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-08-12-health.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/_defaults.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/elements.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/landing-page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/mixins/columns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/mixins/flexbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/staff.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/_defaults.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/anna.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/betty.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/gerald.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/james.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/robin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_staff_members/tom.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact-success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/screen.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/_screenshot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/screenshot-buttons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -85,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="378">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -183,12 +125,12 @@
       <option name="presentableId" value="Default" />
       <updated>1598322916350</updated>
       <workItem from="1598322917841" duration="2684000" />
-      <workItem from="1598327761341" duration="6447000" />
+      <workItem from="1598327761341" duration="6706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9131000" />
+    <option name="totallyTimeSpent" value="9390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -367,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="378">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
