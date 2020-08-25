@@ -2,7 +2,182 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00df7f9-88bd-43c3-bd61-1527c3fb4b78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/home_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-02-hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-25-first.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome-ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome-ie7.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/css/font-awesome-ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/css/font-awesome-ie7.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/font/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/font/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/font/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/font/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/font/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/extras.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/font-awesome-ie7.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/font-awesome-ie7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/extras.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/font-awesome-ie7.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/font-awesome-ie7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/festivo1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/Android-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ico/iPhone-Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/Bicycle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/Earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/Info2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/Office.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/barbecue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/blog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/blog3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/blog3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/blog4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/holidays.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/info.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/info3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/info4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/java.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/joinus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slide9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/btn_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/btn_skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/btn_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/googleplus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/pinterest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/social-icons/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/member1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/member2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/member3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/member4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,52 +189,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-03-02-hello-world.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/home_style.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="106" column="18" lean-forward="true" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="379" column="8" selection-start-line="379" selection-start-column="1" selection-end-line="379" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/slider/joinus.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -108,47 +238,6 @@
               <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coderXueLei.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderXueLei.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,16 +281,15 @@
       <option name="presentableId" value="Default" />
       <updated>1598322916350</updated>
       <workItem from="1598322917841" duration="2684000" />
-      <workItem from="1598327761341" duration="5716000" />
+      <workItem from="1598327761341" duration="6114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8400000" />
+    <option name="totallyTimeSpent" value="8798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -369,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home_style.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="106" column="18" lean-forward="true" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+        <state relative-caret-position="384">
+          <caret line="138" column="36" lean-forward="true" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
         </state>
       </provider>
     </entry>
