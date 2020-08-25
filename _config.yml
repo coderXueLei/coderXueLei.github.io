@@ -2,7 +2,7 @@
 # Site
 
 title: 薛雷的博客
-url: "https://brave-submarine.cloudvent.net"
+url: "https://coderxuelei.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: 薛雷的博客
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+
 
 # -----
 # Build
