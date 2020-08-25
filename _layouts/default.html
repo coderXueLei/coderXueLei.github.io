@@ -54,25 +54,15 @@
 						</li>
 					{% endfor %}
 				</ul>
-				<ul class="footer-right-links">
-					{% for link in site.data.footer.right_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
 				<p class="copyright">
-					<a href="https://cloudcannon.com/">
-						Template by CloudCannon
+					<a href="https://coderxuelei.github.io/">
+						我是薛雷，一个小程序员
 					</a>
 				</p>
 			</div>
 		</footer>
 
 		<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
-		<script src="{{ site.baseurl }}/js/main.js"></script>
+		<!--<script src="{{ site.baseurl }}/js/main.js"></script>-->
 	</body>
 </html>
